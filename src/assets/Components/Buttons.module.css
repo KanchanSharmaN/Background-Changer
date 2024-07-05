@@ -1,0 +1,23 @@
+.bottonbtn{
+    height:3rem;
+    width:6rem;
+    border-radius: 1rem;
+    border: 2px groove white;
+    margin:2px;
+}
+.bottonbox{
+    border: 2px solid white;
+    border-radius: 2rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+    bottom: 2rem;
+    padding:2rem;
+}
+div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
